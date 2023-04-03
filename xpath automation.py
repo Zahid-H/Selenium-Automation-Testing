@@ -16,3 +16,4 @@ driver.get("https://www.rahulshettyacademy.com/AutomationPractice/")
 a= driver.find_element_by_xpath("//legend[text()='Checkbox Example']").text
 
 print(a)
+
